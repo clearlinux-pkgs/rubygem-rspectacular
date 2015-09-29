@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspectacular
 Version  : 0.63.0
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/rspectacular-0.63.0.gem
 Source0  : https://rubygems.org/downloads/rspectacular-0.63.0.gem
 Summary  : No detailed summary available
